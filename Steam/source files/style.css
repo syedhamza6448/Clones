@@ -3,6 +3,9 @@
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+body {
+    background-color: #1B2838;
+}
 .headbar {
     display: flex;
     height: 104px;
@@ -944,6 +947,7 @@
     gap: 10px;
 }
 footer {
+    margin-top: 100px;
     width: 98.7vw;
     height: 65vh;
     background-color: #1B2838;
